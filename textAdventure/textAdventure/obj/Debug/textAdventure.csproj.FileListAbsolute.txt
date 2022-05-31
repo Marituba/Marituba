@@ -1,0 +1,8 @@
+C:\Users\rigrs\source\repos\textAdventure\textAdventure\obj\Debug\textAdventure.csproj.AssemblyReference.cache
+C:\Users\rigrs\source\repos\textAdventure\textAdventure\obj\Debug\textAdventure.csproj.SuggestedBindingRedirects.cache
+C:\Users\rigrs\source\repos\textAdventure\textAdventure\obj\Debug\textAdventure.csproj.CoreCompileInputs.cache
+C:\Users\rigrs\source\repos\textAdventure\textAdventure\bin\Debug\textAdventure.exe.config
+C:\Users\rigrs\source\repos\textAdventure\textAdventure\bin\Debug\textAdventure.exe
+C:\Users\rigrs\source\repos\textAdventure\textAdventure\bin\Debug\textAdventure.pdb
+C:\Users\rigrs\source\repos\textAdventure\textAdventure\obj\Debug\textAdventure.exe
+C:\Users\rigrs\source\repos\textAdventure\textAdventure\obj\Debug\textAdventure.pdb
