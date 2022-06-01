@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on basically anything
-- 📫 How to reach me Rigrs@seznam.cz
+- 📫 How to reach me 
 
 <!---
 Marituba/Marituba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
